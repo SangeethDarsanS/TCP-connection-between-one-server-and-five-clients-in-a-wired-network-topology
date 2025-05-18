@@ -65,9 +65,6 @@ This project is open-source and free to use for academic or research purposes.
 
 ### ✅ How to Use
 
-1. Save the above as `README.md` in your GitHub repo.
-2. Create a folder called `screenshots` inside your repo.
-3. Place NAM simulation screenshots there.
-4. Commit everything to your GitHub repository.
-5. Also check wheather the Xming file is running
+1. Commit everything to your GitHub repository.
+2. Also check wheather the Xming file is running
 
